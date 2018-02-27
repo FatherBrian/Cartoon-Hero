@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cf4f5a9-9b70-479d-8eaa-44be5a79dfb3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/CSS/hero.css" afterPath="$PROJECT_DIR$/CSS/hero.css" />
-    </list>
+    <list default="true" id="5cf4f5a9-9b70-479d-8eaa-44be5a79dfb3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="hero.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hero.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/hero.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -26,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -149,12 +147,12 @@
       <updated>1518827640903</updated>
       <workItem from="1518827642757" duration="1666000" />
       <workItem from="1519185251353" duration="888000" />
-      <workItem from="1519658640208" duration="5428000" />
+      <workItem from="1519658640208" duration="5521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7982000" />
+    <option name="totallyTimeSpent" value="8075000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -268,6 +266,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/hero.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -275,14 +281,6 @@
           <folding>
             <element signature="e#1713#1719#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/hero.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
