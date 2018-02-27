@@ -6,14 +6,72 @@ header{
     background-color: #26c1e0;
     padding: 40px;
     text-align: center;
+    background-image: url('../Images/cage.jpg');
+    background-repeat: repeat;
+    background-size: 80px 80px;
+
 }
 
+
 h1{
-    font-size: 90px;
+    font-size: 130px;
     color: white;
+    background-color: #26c1e0;
 }
 
 header img{
     border-radius: 150px;
     width: 300px;
+    border: 12px solid #ff8528;
+}
+
+html, body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.content{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+img.big-image{
+    max-width: 100%;
+}
+
+p.caption{
+    font-size: 16px;
+    color: lightgrey;
+    font-style: italic;
+
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
+
+a{
+    color: red;
+    text-decoration: none;
+
+}
+
+footer{
+    margin-top: 20px;
+    padding: 40px 20px;
+    background-color: lightgrey;
+
+}
+
+footer ul{
+    text-align: center;
+}
+
+footer ul li{
+    display: inline-block;
+    margin: 0 5px;
 }
